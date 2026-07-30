@@ -1,0 +1,42 @@
+Nested loop -> Patterns, arrays[2D], and strings
+
+
+
+for(initialization; condition; increment/decrement) {
+    
+    for(initialization; condition; increment/decrement){
+
+        // code to be executed
+
+    }
+
+}
+
+
+-------------------------------------------------------
+
+
+while loop 
+
+// 1st way in var del
+let i = 0;
+
+
+// consol , doc , etc....
+
+while(condition){
+    // code to be executed
+    increment/decrement;
+}
+
+
+
+// 2nd way loop upper side 
+
+let i;
+
+i = 0;
+while(condition){
+    // code to be executed
+    increment/decrement;
+}
