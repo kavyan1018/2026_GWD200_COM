@@ -1,0 +1,14 @@
+-> making a decision in programming 
+
+if(condition){
+    // code 
+}
+else{
+
+    // code 
+
+}
+
+-> else if
+-> nested if-else
+-> ladder if-else 
