@@ -1,0 +1,11 @@
+collections of key-value pairs
+
+    const person = {
+        name: "John",
+        age: 30,
+        city: "New York"
+    };
+
+
+    name -> key
+    "Jone" -> value
