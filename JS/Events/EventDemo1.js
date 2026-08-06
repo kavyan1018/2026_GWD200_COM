@@ -42,3 +42,37 @@
 // }
 
 
+
+// ------------------- Form Events ---------------------
+
+// function City(element) {
+//     // alert("City is selected : " + element.value);
+
+//     alert(element.value)
+// }
+
+
+// function showInput(element) {
+//     document.getElementById("output").innerHTML = element.value;
+// }
+
+// function changecolor(element) {
+//     element.style.backgroundColor = "lightblue";
+// }
+
+// function changeColor(element) {
+//     element.style.backgroundColor = "lightgreen";
+// }
+
+
+
+// page load event
+
+function welcome() {
+    // alert("Welcome to JS Events");
+    // document.write("<h1>Welcome to JS Events</h1>");
+
+    // console.log("Window is resized");
+
+    console.log("Window is scrolled");
+}
